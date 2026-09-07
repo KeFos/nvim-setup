@@ -1,5 +1,5 @@
 local ensure_installed = {
-  "lua", "javascript", "typescript", "html", "c", "cpp", "tsx", "go",
+  "lua", "javascript", "typescript", "html", "c", "cpp", "tsx", "go", "python"
 }
 
 return {
